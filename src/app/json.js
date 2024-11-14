@@ -313,3 +313,99 @@ export const PlacementData = [
     { id: 8, content: "<span class='block font-bold'>Corporate mentorship</span>  for each student" },
     { id: 9, content: "Industry oriented curriculum" }
   ];
+
+
+
+import logo1 from "./img/recru/logo1.png";
+import logo2 from "./img/recru/logo2.png";
+import logo3 from "./img/recru/logo3.png";
+import logo4 from "./img/recru/logo4.png";
+import logo5 from "./img/recru/logo5.png";
+import logo6 from "./img/recru/logo6.png";
+import logo7 from "./img/recru/logo7.png";
+import logo8 from "./img/recru/logo8.png";
+import logo9 from "./img/recru/logo9.png";
+import logo10 from "./img/recru/logo10.png";
+import logo11 from "./img/recru/logo11.png";
+import logo12 from "./img/recru/logo12.png";
+import logo13 from "./img/recru/logo13.png";
+import logo14 from "./img/recru/logo14.png";
+import logo15 from "./img/recru/logo15.png";
+import logo16 from "./img/recru/logo16.png";
+import logo17 from "./img/recru/logo17.png";
+import logo18 from "./img/recru/logo18.png";
+import logo19 from "./img/recru/logo19.png";
+import logo20 from "./img/recru/logo20.png";
+import logo21 from "./img/recru/logo21.png";
+import logo22 from "./img/recru/logo22.jpg";
+import logo23 from "./img/recru/logo23.png";
+import logo24 from "./img/recru/logo24.png";
+import logo25 from "./img/recru/logo25.jpg";
+import logo26 from "./img/recru/logo26.png";
+import logo27 from "./img/recru/logo27.png";
+import logo28 from "./img/recru/logo28.png";
+import logo29 from "./img/recru/logo29.png";
+import logo30 from "./img/recru/logo30.jpg";
+import logo31 from "./img/recru/logo31.png";
+import logo32 from "./img/recru/logo32.png";
+import logo33 from "./img/recru/logo33.jpg";
+import logo34 from "./img/recru/logo34.png";
+import logo35 from "./img/recru/logo35.png";
+import logo36 from "./img/recru/logo36.png";
+import logo37 from "./img/recru/logo37.png";
+import logo38 from "./img/recru/logo38.png";
+import logo39 from "./img/recru/logo39.png";
+import logo40 from "./img/recru/logo40.png";
+import logo41 from "./img/recru/logo41.png";
+import logo42 from "./img/recru/logo42.png";
+import logo43 from "./img/recru/logo43.png";
+import logo44 from "./img/recru/logo44.png";
+import logo45 from "./img/recru/logo45.png";
+import logo46 from "./img/recru/logo46.png";
+import logo47 from "./img/recru/logo47.jpg";
+import logo48 from "./img/recru/logo48.jpg";
+import logo49 from "./img/recru/logo49.jpg";
+import logo50 from "./img/recru/logo50.png";
+import logo51 from "./img/recru/logo51.png";
+import logo52 from "./img/recru/logo52.png";
+import logo53 from "./img/recru/logo53.png";
+import logo54 from "./img/recru/logo54.png";
+import logo55 from "./img/recru/logo55.jpg";
+import logo56 from "./img/recru/logo56.png";
+import logo57 from "./img/recru/logo57.jpg";
+import logo58 from "./img/recru/logo58.png";
+import logo59 from "./img/recru/logo59.png";
+import logo60 from "./img/recru/logo60.png";
+import logo61 from "./img/recru/logo61.jpg";
+import logo62 from "./img/recru/logo62.png";
+import logo63 from "./img/recru/logo63.png";
+import logo64 from "./img/recru/logo64.png";
+import logo65 from "./img/recru/logo65.png";
+import logo66 from "./img/recru/logo66.png";
+import logo67 from "./img/recru/logo67.jpg";
+import logo68 from "./img/recru/logo68.png";
+import logo69 from "./img/recru/logo69.png";
+import logo70 from "./img/recru/logo70.png";
+import logo71 from "./img/recru/logo71.png";
+import logo72 from "./img/recru/logo72.png";
+import logo73 from "./img/recru/logo73.png";
+import logo74 from "./img/recru/logo74.jpg";
+import logo75 from "./img/recru/logo75.png";
+import logo76 from "./img/recru/logo76.png";
+import logo77 from "./img/recru/logo77.jpg";
+import logo78 from "./img/recru/logo78.png";
+import logo79 from "./img/recru/logo79.png";
+import logo80 from "./img/recru/logo80.jpg";
+import logo81 from "./img/recru/logo81.png";
+
+export const logos = [
+  logo1, logo2, logo3, logo4, logo5, logo6, logo7, logo8, logo9, logo10,
+  logo11, logo12, logo13, logo14, logo15, logo16, logo17, logo18, logo19, logo20,
+  logo21, logo22, logo23, logo24, logo25, logo26, logo27, logo28, logo29, logo30,
+  logo31, logo32, logo33, logo34, logo35, logo36, logo37, logo38, logo39, logo40,
+  logo41, logo42, logo43, logo44, logo45, logo46, logo47, logo48, logo49, logo50,
+  logo51, logo52, logo53, logo54, logo55, logo56, logo57, logo58, logo59, logo60,
+  logo61, logo62, logo63, logo64, logo65, logo66, logo67, logo68, logo69, logo70,
+  logo71, logo72, logo73, logo74, logo75, logo76, logo77, logo78, logo79, logo80,
+  logo81
+];

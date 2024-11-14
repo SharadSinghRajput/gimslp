@@ -65,7 +65,7 @@ const internationalCollaborations = [
 
 
 
-import {awardsData, newsData, CorporateMentors, PlacementData, testimonials, HighlightsData} from "./json"
+import {awardsData, logos, newsData, CorporateMentors, PlacementData, testimonials, HighlightsData} from "./json"
 
 
 
@@ -130,7 +130,7 @@ export default function Home() {
               </div>
             </div>
         </section>
-        <section className="">
+        <section className="mb-10">
             <div className="max-w-7xl w-full mx-auto py-2 bg-white">
               <div className="grid grid-cols-2 gap-10">
                 <div>
@@ -163,6 +163,7 @@ export default function Home() {
               </div>
             </div>
         </section>
+        
         <section className="bg-contain bg-no-repeat bg-left" style={{ backgroundImage: `url(${pgdmBG2.src})` }}>
             <div className="max-w-7xl w-full mx-auto py-2">
               <div className="grid grid-cols-12 gap-5">
@@ -191,8 +192,8 @@ export default function Home() {
                 <div className="col-span-8">
                   <div>
                     <div className="mb-4 pt-24">
-                        <span className="text-sm text-yellow-600">Rankings</span>
-                        <h2 className="text-2xl font-bold">Awards and Rankings</h2>
+                        <span className="text-sm text-yellow-600">Latest @GIMS</span>
+                        <h2 className="text-2xl font-bold">Latest @GIMS</h2>
                     </div>
                     <ul className="grid grid-cols-2 gap-4">
                       {newsData.map((item, index) => (
@@ -324,6 +325,25 @@ export default function Home() {
                       <img src={asahiIndiaGlass.src} alt={`Image ${index + 1}`} className="w-16 h-14 bg-white block mx-auto object-cover" />
                     </div>
                   ))}
+                </div>
+              </div>
+            </div>
+        </section>
+        <section className="">
+            <div className="max-w-7xl w-full mx-auto py-2 bg-white">
+              <div className="grid grid-cols-1 gap-10">
+                <div>
+                  <div className="mb-4">
+                      <span className="text-sm text-yellow-600">Our Key Recruiters</span>
+                      <h2 className="text-2xl font-bold">Placements - Our Key Recruiters</h2>
+                  </div>
+                  <ul className="grid grid-cols-10 gap-2 ">
+                    {logos.map((image, index) => (
+                      <li key={index} className="bg-white flex justify-center pb-4 border-b border-gray-200">
+                        <img src={image.src} alt={`Image ${index + 1}`} className="w-16 h-16 bg-white object-contain" />
+                      </li>
+                    ))}
+                  </ul>
                 </div>
               </div>
             </div>
